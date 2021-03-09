@@ -3,6 +3,8 @@
 ## para verificar se é # MANHÃ TARDE OU NOITE 
 # é preciso abrir no editor ir no script e digitar a hora ... 
 
-sou aluno do curso em video 
-# Curso de javaScript.
-isto foi tirado do curso em video feito por gustavo guanabara . 
+* sou aluno do curso em video 
+###### Curso de javaScript.
+* isto foi tirado do curso em video 
+🤙 
+# feito por gustavo guanabara . 
