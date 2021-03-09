@@ -7,4 +7,4 @@
 ###### Curso de javaScript.
 * isto foi tirado do curso em video 
 🤙 
-# feito por gustavo guanabara . 
+# feito por Gustavo Guanabara . 
